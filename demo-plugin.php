@@ -7,7 +7,7 @@ Author: Adam Coulombe
 Author URI: http://www.adam.co/
 Version: 1.0
 Plugin Slug: demo-plugin
-GitHub Plugin URI: https://github.com/afragen/github-updater
+GitHub Plugin URI: https://github.com/adamcoulombe/demo-plugin
 
 */
 
